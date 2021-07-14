@@ -425,7 +425,7 @@ Widget roomCard(room){
             ),
             Column(
               children: [
-                Image.asset('assets/ic_cool.png'),
+                Image.asset('assets/ic_ac.png'),
                 Text(room.acState['temp'].toString()),
               ],
             ),
